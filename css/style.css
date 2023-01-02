@@ -30,36 +30,56 @@ body{
     }
 }
 .greetings > span:nth-child(2){
-    animation-delay: .2s ;
+    animation-delay: .3s ;
 }
 .greetings > span:nth-child(3){
-    animation-delay: .4s ;
+    animation-delay: .6s ;
 }
 .greetings > span:nth-child(4){
-    animation-delay: .6s;
+    animation-delay: .9s;
 }
 .greetings > span:nth-child(5){
-    animation-delay: .8s;
+    animation-delay: .12s;
 }
 .greetings > span:nth-child(6){
-    animation-delay: .10s ;
+    animation-delay: .15s ;
 }
 .greetings > span:nth-child(7){
-    animation-delay: .12s ;
+    animation-delay: .18s ;
 }
 .greetings > span:nth-child(8){
-    animation-delay: .14s;
+    animation-delay: .21s;
 }
 .greetings > span:nth-child(9){
-    animation-delay: .16;
+    animation-delay: .24;
 }
 .greetings > span:nth-child(10){
-    animation-delay: .18s;
+    animation-delay: .27s;
 }
 .greetings > span:nth-child(11){
-    animation-delay: .20s;
+    animation-delay: .30s;
 }
-
+.greetings > span:nth-child(12){
+    animation-delay: .33s;
+}
+.greetings > span:nth-child(13){
+    animation-delay: .36s;
+}
+.greetings > span:nth-child(14){
+    animation-delay: .39s;
+}
+.greetings > span:nth-child(15){
+    animation-delay: .42s;
+}
+.greetings > span:nth-child(16){
+    animation-delay: .45s;
+}
+.greetings > span:nth-child(17){
+    animation-delay: .48s;
+}
+.greetings > span:nth-child(11){
+    animation-delay: .51s;
+}
 
 .description{
     font-size: 1.5rem;
